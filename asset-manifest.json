@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.6468ab68.css",
-    "main.js": "/static/js/main.b673a3f8.js",
-    "static/js/787.0c4a98fe.chunk.js": "/static/js/787.0c4a98fe.chunk.js",
-    "index.html": "/index.html",
-    "main.6468ab68.css.map": "/static/css/main.6468ab68.css.map",
-    "main.b673a3f8.js.map": "/static/js/main.b673a3f8.js.map",
-    "787.0c4a98fe.chunk.js.map": "/static/js/787.0c4a98fe.chunk.js.map"
+    "main.css": "/pizza-parlour/static/css/main.6468ab68.css",
+    "main.js": "/pizza-parlour/static/js/main.790689ad.js",
+    "static/js/787.0c4a98fe.chunk.js": "/pizza-parlour/static/js/787.0c4a98fe.chunk.js",
+    "index.html": "/pizza-parlour/index.html",
+    "main.6468ab68.css.map": "/pizza-parlour/static/css/main.6468ab68.css.map",
+    "main.790689ad.js.map": "/pizza-parlour/static/js/main.790689ad.js.map",
+    "787.0c4a98fe.chunk.js.map": "/pizza-parlour/static/js/787.0c4a98fe.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6468ab68.css",
-    "static/js/main.b673a3f8.js"
+    "static/js/main.790689ad.js"
   ]
 }
