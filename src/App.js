@@ -17,6 +17,7 @@ function App() {
           <main>
             <Routes>
               <Route path="/" element={<PizzaList />} />
+              <Route path="/pizza-parlour" element={<PizzaList />} />
               <Route path="/cart" element={<Cart />} />
               <Route path="/success" element={<Success />} /> {/* New route */}
             </Routes>

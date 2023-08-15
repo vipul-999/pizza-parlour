@@ -202,7 +202,7 @@ function PizzaCard({
         </div>
       </div>
       <div style={textStyle}>
-        <h1>{name}</h1>
+        <h3>{name}</h3>
         <div style={badgeStyle}></div>
         <p>{description}</p>
         <div>${price}</div>
